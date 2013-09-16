@@ -1,0 +1,6 @@
+sentence = np vp.
+np = ident noun
+vp = verb | verb ident noun
+ident = a | the
+noun = man | apple | bird | tornado | earth
+verb = ate | saw | talked to
